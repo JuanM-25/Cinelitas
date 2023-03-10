@@ -1,0 +1,12 @@
+/* 
+    Created on : 9 mar. 2023, 20:48:06
+    Author     : Juan Diego
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
